@@ -1,5 +1,5 @@
-# API - Lammar-Cookenu10
-## Repositório da API do projeto Cookenu.
+# API - Backend Culinary Social Network
+## Repositório da API do projeto Backend Culinary Social Network, com recursos de uma rede social culinária.
 
 :green_book: [Documentação para a API](https://documenter.getpostman.com/view/22376211/2s93CHuFSJ)
 
