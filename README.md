@@ -36,6 +36,7 @@
 * UUID
 * JWT
 * Nodemailer
+* ts-node-dev
 
 
 ### Endpoints disponíveis
